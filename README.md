@@ -4,7 +4,7 @@
   <img src='./github_assets/results.png' alt='Script results'>
 </div>
 
-O script escrito em Python automatiza o processo de abrir a página web de relações com investidores do grupo Magalu (Magazine Luiza) e acessar a apresentação de resultados do semestre mais recente. Os passos seguidos na automação são:
+Os passos seguidos na automação são:
 
 - Abrir janela do navegador
 - Maximizar a janela
